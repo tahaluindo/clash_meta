@@ -1,4 +1,4 @@
-**Table of Contents**
+**Clash Of Meta Config Indonesia**
 
 - [Support Me](#support-me)
 - [Keterangan Config](#keterangan-config)
@@ -7,9 +7,9 @@
   - [Download File Config](#download-file-config)
     - [Config Rule Online](#config-rule-online)
     - [Config Simpel](#config-simpel)
+- [Download Clash Meta](https://f-droid.org/packages/com.github.metacubex.clash.meta/)
   - [Setting Clash For Android](#setting-clash-for-android)     
 - [Langkah Pemasangan Config Rule Online](#langkah-pemasangan-config-rule-online)
-- [Langkah Pemasangan Config Simpel](#langkah-pemasangan-config-Simpel)
 - [Cara Update Rule Online](#cara-update-rule-online)
 - [Thanks To](#thanks-to)
 
@@ -20,6 +20,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 - [Instagram](https://instagram.com/afthon_pc)
 - [Telegram](https://t.me/AfthonPc)
+- [Telegram](https://t.me/anonsecteam)
 
 
 # KETERANGAN CONFIG
